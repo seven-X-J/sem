@@ -8,6 +8,6 @@ license [![LICENSE](https://img.shields.io/github/license/seven-X-J/sem.svg?styl
 release [![Releases](https://img.shields.io/github/release/seven-X-J/sem/all.svg?style=flat-square)](https://github.com/seven-X-J/sem/releases)
 
 
-develop test 1 ![GitHub Workflow Status (develop)](https://img.shields.io/github/actions/workflow/status/seven-X-J/sem/main.yml/develop?style=flat-square)
+develop test 1 ![GitHub Workflow Status (develop)](https://img.shields.io/github/actions/workflow/status/seven-X-J/sem/main.yml)
 
 develop test 2 ![develop](https://img.shields.io/github/actions/workflow/status/seven-X-J/sem/main.yml?branch=develop)
