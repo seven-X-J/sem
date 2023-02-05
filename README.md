@@ -8,3 +8,5 @@ fun
 
 # Software Engineering Methods
 ![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/seven-X-J/sem/main.yml/develop?style=flat-square)
+
+![develop](https://img.shields.io/github/actions/workflow/status/seven-X-J/sem/main.yml?branch=develop)
