@@ -6,3 +6,5 @@ fun
 
 [![Releases](https://img.shields.io/github/release/seven-X-J/sem/all.svg?style=flat-square)](https://github.com/seven-X-J/sem/releases)
 
+# Software Engineering Methods
+![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/seven-X-J/sem/main.yml/develop?style=flat-square)
